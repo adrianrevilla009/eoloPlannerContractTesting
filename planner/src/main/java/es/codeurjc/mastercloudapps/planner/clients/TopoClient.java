@@ -13,14 +13,18 @@ public class TopoClient {
     private static final String TOPO_HOST = "localhost";
     private static final int TOPO_PORT = 8080;
 
+    private final RestTemplate restTemplate;
+
+    public TopoClient(RestTemplate restTemplate) {
+        this.restTemplate = restTemplate;
+    }
+
     @Async
     public CompletableFuture<String> getLandscape(String city) {
-        
-        RestTemplate restTemplate = new RestTemplate();
 
         String url = "http://"+TOPO_HOST+":"+TOPO_PORT+"/api/topographicdetails/" + city;
         
-        LandscapeResponse response = restTemplate.getForObject(url, LandscapeResponse.class);
+        LandscapeResponse response = this.restTemplate.getForObject(url, LandscapeResponse.class);
         
         return CompletableFuture.completedFuture(response.getLandscape());
     }
