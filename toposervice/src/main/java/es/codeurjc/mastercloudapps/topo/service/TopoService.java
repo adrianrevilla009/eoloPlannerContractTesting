@@ -1,12 +1,11 @@
 package es.codeurjc.mastercloudapps.topo.service;
 
 import es.codeurjc.mastercloudapps.topo.model.City;
+import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
-
-import javax.annotation.PostConstruct;
 
 @Service
 public class TopoService {
