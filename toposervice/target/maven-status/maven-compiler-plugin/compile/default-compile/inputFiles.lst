@@ -1,0 +1,5 @@
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/toposervice/src/main/java/es/codeurjc/mastercloudapps/topo/Application.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/toposervice/src/main/java/es/codeurjc/mastercloudapps/topo/model/City.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/toposervice/src/main/java/es/codeurjc/mastercloudapps/topo/controller/TopoController.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/toposervice/src/main/java/es/codeurjc/mastercloudapps/topo/model/CityDTO.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/toposervice/src/main/java/es/codeurjc/mastercloudapps/topo/service/TopoService.java

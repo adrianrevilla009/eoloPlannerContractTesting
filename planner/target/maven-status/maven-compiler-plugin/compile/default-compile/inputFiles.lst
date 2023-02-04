@@ -1,0 +1,14 @@
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/clients/WeatherClient.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/java/es/codeurjc/mastercloudapps/planner/grpc/GetWeatherRequest.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/models/Eoloplant.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/service/PlannerService.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/grpc-java/es/codeurjc/mastercloudapps/planner/grpc/WeatherServiceGrpc.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/clients/TopoClient.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/clients/NotificationClient.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/java/es/codeurjc/mastercloudapps/planner/grpc/WeatherOrBuilder.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/java/es/codeurjc/mastercloudapps/planner/grpc/Weather.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/Application.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/java/es/codeurjc/mastercloudapps/planner/grpc/WeatherServiceOuterClass.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/models/LandscapeResponse.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/src/main/java/es/codeurjc/mastercloudapps/planner/models/EoloplantCreationRequest.java
+/home/patxi/git/2.4.Pruebas-de-servicios-web-Practicas/2022-23/Ordinaria/Practica_2B_Enunciado/planner/target/generated-sources/protobuf/java/es/codeurjc/mastercloudapps/planner/grpc/GetWeatherRequestOrBuilder.java
