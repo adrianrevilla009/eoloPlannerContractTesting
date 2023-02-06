@@ -1,6 +1,15 @@
 package es.codeurjc.mastercloudapps.topo.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
+@Entity
 public class City {
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private int uuid;
 
     private String id;
     private String landscape;

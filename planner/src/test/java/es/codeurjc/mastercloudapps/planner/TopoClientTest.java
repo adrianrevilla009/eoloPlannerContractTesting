@@ -42,11 +42,13 @@ public class TopoClientTest {
                 .path("/api/topographicdetails/Madrid")
                 .method("GET")
                 .willRespondWith()
-                .status(200).headers(Map.of("Content-Type", "application/json"))
+                .status(200)
+                .headers(Map.of("Content-Type", "application/json"))
                 .body(newJsonBody(object -> {
                     object.stringType("id", "Madrid");
                     object.stringType("landscape", "Flat");
-                }).build()).toPact();
+                }).build())
+                .toPact();
     }
     @Test
     @PactTestFor(pactMethod = "getCity") // this has to be same string as pact method name

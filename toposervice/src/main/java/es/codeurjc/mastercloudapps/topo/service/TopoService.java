@@ -19,7 +19,7 @@ public class TopoService {
 
     public City getCity(String id) {
         // return cities.get(id);
-        return this.cityRepository.getReferenceById(id);
+        return this.cityRepository.searchById(id);
     }
     
     @PostConstruct

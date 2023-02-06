@@ -11,7 +11,7 @@ import java.util.concurrent.CompletableFuture;
 public class TopoClient {
 
     private static final String TOPO_HOST = "localhost";
-    private static final int TOPO_PORT = 8080;
+    private static final int TOPO_PORT = 8082;
 
     private final RestTemplate restTemplate;
 
