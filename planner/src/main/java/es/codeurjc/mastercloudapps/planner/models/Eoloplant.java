@@ -67,4 +67,8 @@ public class Eoloplant implements Serializable {
                 ", planning='" + getPlanning() + '\'' +
                 '}';
     }
+
+    public void setProgress(int progress) {
+        this.progress = progress;
+    }
 }
